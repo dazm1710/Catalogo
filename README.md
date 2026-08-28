@@ -33,3 +33,4 @@ API REST con Spring Boot
 Tests unitarios con JUnit
 
 Autor: Duvan Zambrano - Est. Ingeniería de Sistemas UNAD
+Nota: Proyecto realizado en 2016 como parte de mi aprendizaje inicial en programación, antes de iniciar Ingeniería de Sistemas. Re-documentado y organizado en 2026 como parte de mi portafolio junior
